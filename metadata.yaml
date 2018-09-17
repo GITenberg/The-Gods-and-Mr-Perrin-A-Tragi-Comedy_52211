@@ -1,0 +1,27 @@
+_repo: The-Gods-and-Mr-Perrin-A-Tragi-Comedy_52211
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Walpole, Hugh
+    alias: Walpole, Sir Hugh
+    birthdate: 1884
+    deathdate: 1941
+    gutenberg_agent_id: '1207'
+    url: http://www.gutenberg.org/2009/agents/1207
+    wikipedia: http://en.wikipedia.org/wiki/Hugh_Walpole
+description: Also published as "Mr. Perrin and Mr. Traill."
+gutenberg_issued: '2016-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52211'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Endowed public schools (Great Britain) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Teachers -- Fiction'
+- GITenberg
+title: 'The Gods and Mr. Perrin: A Tragi-Comedy'
+url: http://www.gutenberg.org/ebooks/52211
